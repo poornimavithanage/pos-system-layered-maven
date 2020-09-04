@@ -1,4 +1,4 @@
-# POS System [Layered-Spring-JPA with Maven]
+# POS System [Layered Architecture with Maven]
 
 #### The main functions are,
 1. Managing Customers
