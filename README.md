@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # POS System [Layered Architecture with Maven]
 
 In this **POS System** has all the functionalities of a POS system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
@@ -26,15 +25,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
-# POS System [Layered architecture with Maven]
-
-#### The main functions are,
-1. Managing Customers
-2. Managing Items
-3. Place orders
-4. Search orders
-#### Please make sure to include the following dependencies in the project folder of your local repository in order to operate and build the system appropriately.
-
-#### apache-maven-3.6.3-bin
->>>>>>> a0357c1fc262ccfe439e84574d4b5546abc45f41
